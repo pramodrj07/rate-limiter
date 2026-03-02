@@ -1,0 +1,11 @@
+{
+  "name": "Ubuntu Go Dev",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "extensions": [
+    "golang.Go",
+    "GitHub.copilot"
+  ],
+  "remoteUser": "vscode"
+}
