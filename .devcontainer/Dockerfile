@@ -1,7 +1,7 @@
 FROM ubuntu:22.04
 
 ENV DEBIAN_FRONTEND=noninteractive
-ENV GO_VERSION=1.22.3
+ENV GO_VERSION=1.25.7
 ENV CGO_ENABLED=0
 
 # Install base packages
